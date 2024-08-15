@@ -1,6 +1,5 @@
 A simple CIpher Decoder App(CIDA).
-
-For now Basic terminal is used to display infos.
+It displays all possible decrypted texts.
 
 This project provides a tool to decode and decrypt various encoded or ciphered strings by applying multiple permutations of decoding functions up to three levels of depth.
 
