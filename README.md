@@ -17,6 +17,7 @@ Run the `main.py` script to decode the input string using different permutations
 
 ```bash
 python main.py
+```
 
 
 ### Summary
